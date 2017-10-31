@@ -54,6 +54,4 @@
                 words.Clear();
             }
             return outputData;
-        }
-    }
-}
+        
